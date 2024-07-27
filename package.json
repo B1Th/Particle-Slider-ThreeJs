@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "flickity": "^3.0.0",
+    "three": "^0.167.0"
   }
 }
